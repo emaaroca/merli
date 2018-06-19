@@ -1,0 +1,120 @@
+#menu{
+    color: #FFEDE3;   
+    font-family: "Cursiva";
+    font-size: 30px;
+    background: #2F4F4F;
+    margin: auto;
+    float: left;
+    width: 100%;
+}
+#menu ol li a:link{
+    color: #FF8500;
+}
+#menu ol li a:visited{
+    color: #FF8500;
+}
+#menu ol li a:hover{
+    color: yellow;
+}
+
+h1 , h2{
+  font-family: "BankFuturistic" ;
+    font-size: 60px;
+    background: #2F4F4F;
+    width: 100%;
+    color: #FFEDE3;
+    text-decoration: underline;
+    float: left;
+}
+h3{
+  color: #FFEDE3;
+    font-family:"BankFuturistic" ;
+        font-size: 50px; 
+    background: #2F4F4F;
+ width: 100%;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    text-decoration: underline;
+}
+#titulo1{
+    background: #2F4F4F;
+    width: 100%;
+    margin:auto;
+    float: left;
+}
+#titulo1 img{
+    padding-left: 5%;
+    width: 90%;
+}
+#img1{
+    background: #2F4F4F;
+   width: 100%;
+ float: left;
+}
+#img1 img{
+    padding-left: 5%;
+    width: 90%;
+}
+p{
+ font-family: "Comic Sans";
+    background: #2F4F4F;
+    font-size: 100mp;
+    color: #FFEDE3;
+    float: left;
+}
+}
+#introduccion{
+    width: 100%;
+    float: left;
+     background: #2F4F4F;  
+}
+#video{
+    background: #2F4F4F;
+    float:none;
+    background: #2F4F4F;
+}
+}
+#argumento{
+    width: 100%;
+    float: left;
+    background: #2F4F4F;
+}
+#argumento h2{
+    margin-top: 0px;
+    padding-top: 20px;
+}
+#primera{
+    float: left;
+    width: 100%;
+}
+#segunda{
+    float: left;
+    width: 100%;
+}
+#tercera{
+    float: left;
+    width: 100%;
+}
+#genero y emision{
+    float: left;
+    width: 100%;
+    background: #2F4F4F;
+}
+#personajes{
+    width: 100%;
+    float: left;
+ background: #2F4F4F;
+}
+table{
+    background: #2F4F4F;
+    width:  100%;
+    color: #FFEDE3;
+}
+#personajes p a:link{
+    color: #FF8500;
+}
+#personajes p a:visited{
+    color: #FF8500;
+}
+#personajes p a:hover{
+    color: yellow;
